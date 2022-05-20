@@ -1,5 +1,3 @@
-## How to use
-
 ## How to start Grafana
 
 Install docker-compose at first. 
